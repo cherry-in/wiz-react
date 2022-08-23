@@ -1,4 +1,5 @@
 import React from "react";
+import Landing from "page.landing";
 import Main from "page.main";
 import Search from "page.search";
 
@@ -10,6 +11,9 @@ const RouteTable = [
     {
         path: "/search",
         element: <Search />,
+    }, {
+        path: "/landing",
+        element: <Landing />
     },
 ];
 

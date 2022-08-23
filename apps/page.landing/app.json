@@ -1,0 +1,13 @@
+{
+    "id": "page.landing",
+    "category": "page",
+    "theme": "react/base",
+    "controller": "",
+    "properties": {
+        "html": "pug"
+    },
+    "title": "Landing",
+    "viewuri": "/page.landing",
+    "created": "2022-08-23 20:17:04",
+    "updated": "2022-08-23 20:40:39"
+}
